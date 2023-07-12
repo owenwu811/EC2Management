@@ -15,3 +15,4 @@ if [ "$current_hour" -eq 19 ]; then
 else
   echo "It's not 7 PM yet. No action taken."
 fi
+
